@@ -1,0 +1,3 @@
+   % Range crossline_e_amp crossline_e_phs inline_B_amp inline_B_phs  vertical_B_amp vertical_B_phs 
+   % Range crossline_B_amp crossline_B_phs inline_e_amp inline_e_phs  vertical_e_amp vertical_e_phs 
+   % Range crossline_B_amp crossline_B_phs inline_e_amp inline_e_phs  vertical_e_amp vertical_e_phs 
